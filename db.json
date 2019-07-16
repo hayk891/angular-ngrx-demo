@@ -1,0 +1,32 @@
+{
+  "cars": [
+    {
+      "id": 2,
+      "name": "Kia",
+      "date": "11.12.2009",
+      "model": "Forte",
+      "isSold": false
+    },
+    {
+      "isSold": false,
+      "name": "bmw",
+      "model": "x3",
+      "date": "16.07.19 11:11",
+      "id": 4
+    },
+    {
+      "isSold": false,
+      "name": "aaa",
+      "model": "ssss",
+      "date": "16.07.19 11:39",
+      "id": 5
+    },
+    {
+      "isSold": false,
+      "name": "sss",
+      "model": "ddddd",
+      "date": "16.07.19 11:40",
+      "id": 6
+    }
+  ]
+}
